@@ -1,9 +1,34 @@
 import { FaJs, FaReact, FaHtml5, FaCss3, FaGithub, FaDocker, FaNode, FaPython, FaDatabase } from "react-icons/fa";
+import { SiSwift, SiSwiftui, SiDjango, SiPostgresql } from "react-icons/si";
 
 const Skills = () => {
     const skillsArr = [
         {
-            "name" : 'JavaScript',
+            "name" : 'SwiftUI',
+            "icon" : SiSwiftui
+        },
+        {
+            "name" : "React",
+            "icon" : FaReact
+        },
+        {
+            "name" : "Python",
+            "icon" : FaPython
+        },
+        {
+            "name" : "Django",
+            "icon" : SiDjango
+        },
+        {
+            "name" : "Swift",
+            "icon" : SiSwift
+        },
+        {
+            "name" : "PostgreSQL",
+            "icon" : SiPostgresql
+        },
+        {
+            "name" : "JavaScript",
             "icon" : FaJs
         },
         {
@@ -15,16 +40,8 @@ const Skills = () => {
             "icon" : FaCss3
         },
         {
-            "name" : "React",
-            "icon" : FaReact
-        },
-        {
             "name" : "Node.js",
             "icon" : FaNode
-        },
-        {
-            "name" : "Python",
-            "icon" : FaPython
         },
         {
             "name" : "Git",
@@ -33,10 +50,6 @@ const Skills = () => {
         {
             "name" : "Docker",
             "icon" : FaDocker
-        },
-        {
-            "name" : "Database",
-            "icon" : FaDatabase
         }
     ];
 
