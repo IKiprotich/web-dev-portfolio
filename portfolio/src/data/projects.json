@@ -1,27 +1,27 @@
 [
     {
-        "name" : "Project 1",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link" : "https://github.com/"
+        "name" : "E-Commerce Platform",
+        "description" : "A full-stack e-commerce application built with React and Node.js. Features include user authentication, product catalog, shopping cart, and payment integration. The project demonstrates modern web development practices and responsive design principles.",
+        "link" : "https://github.com/iankiprotich/ecommerce-platform"
     },
     {
-        "name" : "Project 2",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link" : "https://github.com/"
+        "name" : "Task Management App",
+        "description" : "A React-based task management application with drag-and-drop functionality, user authentication, and real-time updates. Built using modern React hooks and Context API for state management.",
+        "link" : "https://github.com/iankiprotich/task-manager"
     },
     {
-        "name" : "Project 3",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link" : "https://github.com/"
+        "name" : "Weather Dashboard",
+        "description" : "A responsive weather application that displays current weather conditions and forecasts. Integrates with OpenWeatherMap API and features a clean, intuitive user interface built with HTML, CSS, and JavaScript.",
+        "link" : "https://github.com/iankiprotich/weather-dashboard"
     },
     {
-        "name" : "Project 4",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link" : "https://github.com/"
+        "name" : "Portfolio Website",
+        "description" : "A personal portfolio website showcasing my skills and projects. Built with React.js and features smooth animations, responsive design, and modern UI/UX principles. This project demonstrates my front-end development capabilities.",
+        "link" : "https://github.com/iankiprotich/portfolio"
     },
     {
-        "name" : "Project 5",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link" : "https://github.com/"
+        "name" : "Blog Platform",
+        "description" : "A content management system for blogging with features like rich text editing, user roles, and comment system. Built with React frontend and Node.js backend with MongoDB database integration.",
+        "link" : "https://github.com/iankiprotich/blog-platform"
     }
 ]
